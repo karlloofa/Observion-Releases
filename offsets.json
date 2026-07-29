@@ -1,3 +1,12 @@
 {
-  "roblox_version": "version-145f189a6a974303eeee"
+    "roblox_version": "version-145f189a6a974303",
+    "FakeDataModel": {
+        "Pointer": "0x7e26978"
+    },
+    "TaskScheduler": {
+        "Pointer": "0x84a58e0"
+    },
+    "VisualEngine": {
+        "Pointer": "0x8818f60"
+    }
 }
