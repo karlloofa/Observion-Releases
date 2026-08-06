@@ -4,8 +4,8 @@
         "Pointer": "0x8a5d748"
     },
     "Instance": {
-        "ChildrenStart": "",
-        "Name": ""
+        "ChildrenStart": "0x78",
+        "Name": "0x8"
     },
     "TaskScheduler": {
         "Pointer": "0x879a6e8"
