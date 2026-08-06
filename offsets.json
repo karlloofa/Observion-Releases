@@ -1,11 +1,11 @@
 {
-    "roblox_version": "version-d584fb6c717a43d9e",
+    "roblox_version": "version-d584fb6c717a43d9",
     "FakeDataModel": {
         "Pointer": "0x8a5d748"
     },
     "Instance": {
         "ChildrenStart": "0x78",
-        "ChildrenEnd": "0x10",
+        "ChildrenEnd": "0x8",
         "Name": "0x8"
     },
     "TaskScheduler": {
