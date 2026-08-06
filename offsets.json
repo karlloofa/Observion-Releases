@@ -12,8 +12,5 @@
     },
     "VisualEngine": {
         "Pointer": "0x811d0a0"
-    },
-    "Player": {
-        "UserId": "0x300"
     }
 }
