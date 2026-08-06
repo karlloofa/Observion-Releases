@@ -3,6 +3,10 @@
     "FakeDataModel": {
         "Pointer": "0x8a5d748"
     },
+    "Instance": {
+        "ChildrenStart": "",
+        "Name": ""
+    },
     "TaskScheduler": {
         "Pointer": "0x879a6e8"
     },
