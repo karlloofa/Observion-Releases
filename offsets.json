@@ -5,7 +5,7 @@
     },
     "Instance": {
         "ChildrenStart": "0x78",
-        "ChildrenEnd": "0x8",
+        "ChildrenEnd": "0x10",
         "Name": "0x8"
     },
     "TaskScheduler": {
