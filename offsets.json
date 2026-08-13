@@ -1,7 +1,7 @@
 {
     "roblox_version": "version-d584fb6c717a43d9",
     "FakeDataModel": {
-        "Pointer": "0x8a5d748"
+        "Pointer": "0x8b79b58"
     },
     "Instance": {
         "ChildrenStart": "0x78",
@@ -9,9 +9,9 @@
         "Name": "0x8"
     },
     "TaskScheduler": {
-        "Pointer": "0x879a6e8"
+        "Pointer": "0x88b64c8"
     },
     "VisualEngine": {
-        "Pointer": "0x811d0a0"
+        "Pointer": "0x8136228"
     }
 }
