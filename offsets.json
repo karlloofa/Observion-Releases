@@ -1,7 +1,10 @@
 {
-    "roblox_version": "version-ddf602d9cfe44005",
+    "roblox_version": "version-ddf602d9cfe44005ee",
     "FakeDataModel": {
         "Pointer": "0x8b79b58"
+    },
+    "DataModel": {
+        "Players": "0x160'
     },
     "Instance": {
         "ChildrenStart": "0x78",
