@@ -1,5 +1,5 @@
 {
-    "roblox_version": "version-ddf602d9cfe44005",
+    "roblox_version": "version-ddf602d9cfe44005eheh",
     "FakeDataModel": {
         "Pointer": "0x8b79b58",
         "RealDataModel": "0x1d8"
@@ -14,5 +14,13 @@
     },
     "VisualEngine": {
         "Pointer": "0x8136228"
-    }
+    },
+    "CameraFFlags": {
+        "UserCameraToggle": "0x7a60a58",
+        "SimplifyCameraTryZoomExtents": "0x815ced8",
+        "UserFixZoomInZoomOutDiscrepancy": "0x7a60b20",
+        "UserCameraPositionCheckWarning": "0x7a60bc0",
+        "UserPoppercamCapRaycasts": "0x7a60b98",
+        "UserPoppercamLooseOpacityThreshold": "0x815cea8"
+    }  
 }
