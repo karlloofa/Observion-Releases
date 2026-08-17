@@ -28,9 +28,9 @@ which will show an on-screen keybourd
 
 #NOTICE:
 
-The external crashes and sometimes closes due to memory overload,
+The external crashes due to it writing to invalid addresses,
 
-There are other bugs as well, but I will fix them in the next upcoming updates
+There are other bugs as well, but I will try my best to fix them in upcoming updates
 
 
 
