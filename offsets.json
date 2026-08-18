@@ -1,7 +1,7 @@
 {
     "roblox_version": "version-ddf602d9cfe44005",
     "FakeDataModel": {
-        "Pointer": "0x8b79b58",
+        "Pointer": "0x8c426f8",
         "RealDataModel": "0x1d8"
     },
     "Instance": {
@@ -10,17 +10,17 @@
         "Name": "0x8"
     },
     "TaskScheduler": {
-        "Pointer": "0x88b64c8"
+        "Pointer": "0x89dd108"
     },
     "VisualEngine": {
-        "Pointer": "0x8136228"
+        "Pointer": "0x827dd88"
     },
     "CameraFFlags": {
-        "UserCameraToggle": "0x7a60a58",
-        "SimplifyCameraTryZoomExtents": "0x815ced8",
-        "UserFixZoomInZoomOutDiscrepancy": "0x7a60b20",
-        "UserCameraPositionCheckWarning": "0x7a60bc0",
-        "UserPoppercamCapRaycasts": "0x7a60b98",
-        "UserPoppercamLooseOpacityThreshold": "0x815cea8"
+        "UserCameraToggle": "0x7b09580",
+        "SimplifyCameraTryZoomExtents": "0x82d4898",
+        "UserFixZoomInZoomOutDiscrepancy": "0x7b09648",
+        "UserCameraPositionCheckWarning": "0x7b096e8",
+        "UserPoppercamCapRaycasts": "0x7b096c0",
+        "UserPoppercamLooseOpacityThreshold": "0x82d4608"
     }  
 }
