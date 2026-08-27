@@ -13,7 +13,8 @@
         "Pointer": "0x89e0618"
     },
     "VisualEngine": {
-        "Pointer": "0x8282058"
+        "Pointer": "0x8282058",
+        "LightingOffset": "0xc18"
     },
     "CameraFFlags": {
         "UserCameraToggle": "0x7b0c808",
