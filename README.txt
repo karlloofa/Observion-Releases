@@ -6,7 +6,7 @@ Observion external is still in Beta
 
 
 
-#KEYBINDS:
+# KEYBINDS:
 
 Show/Hide console: = {END}
 
@@ -15,7 +15,7 @@ Show/Hide menu: = {HOME}
 
 
 
-#HELP:
+# HELP:
 
 If you don't have {END} or {HOME} on your keyboard then a simple way of doing it is
 
@@ -26,9 +26,9 @@ which will show an on-screen keybourd
 
 
 
-#NOTICE:
+# NOTICE:
 
-The external crashes due to it writing to invalid addresses,
+The external can crash or freeze due to reading invalid addresses,
 
 There are other bugs as well, but I will try my best to fix them in upcoming updates
 
