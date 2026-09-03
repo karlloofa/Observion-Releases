@@ -18,7 +18,7 @@
         "Pointer": "0x8351408",
         "RenderView": "0xc30",
         "ViewMatrix": "0x1b0",
-        "LightingOffset": "0xc18"
+        "LightingOffset": "0xc48"
     },
     "CameraFFlags": {
         "UserCameraToggle": "0x7bd7198",
