@@ -14,7 +14,10 @@
     },
     "VisualEngine": {
         "Dimensions": "0xb10",
+        "FakeDataModel": "0xaf0",
         "Pointer": "0x8351408",
+        "RenderView": "0xc30",
+        "ViewMatrix": "0x1b0",
         "LightingOffset": "0xc18"
     },
     "CameraFFlags": {
