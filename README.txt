@@ -1,37 +1,47 @@
-Observion external is still in Beta
+OBSERVION EXTERNAL
+==================
 
-#: Marked undetected by Roblox
-#: Marked undetected by Local Recorder Policy
-
-
+Observion External is still in Beta.
 
 
-# KEYBINDS:
+STATUS
+------
 
-Show/Hide console: = {END}
-
-Show/Hide menu: = {HOME}
-
-
+[+] Marked undetected by Roblox
+[+] Marked undetected by Local Recorder Policy
 
 
-# HELP:
+KEYBINDS
+--------
 
-If you don't have {END} or {HOME} on your keyboard then a simple way of doing it is
-
-CTR + ⊞  Windows + O
-
-which will show an on-screen keybourd
+Show/Hide Console : {END}
+Show/Hide Menu    : {HOME}
 
 
+HELP
+----
+
+If you don't have {END} or {HOME} on your keyboard,
+you can use the Windows On-Screen Keyboard.
+
+Press:
+
+CTRL + ⊞ Windows + O
+
+This will open the On-Screen Keyboard.
 
 
-# NOTICE:
+NOTICE
+------
 
-The external can crash or freeze due to reading invalid addresses,
+The external may crash or freeze when reading invalid
+addresses.
 
-There are other bugs as well, but I will try my best to fix them in upcoming updates
+There are also other bugs, but I will do my best to
+fix them in upcoming updates.
 
 
+IMPORTANT
+---------
 
-Closing the {console} ends the entire program
+Closing the {console} will end the entire program.
