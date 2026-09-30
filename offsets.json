@@ -1,7 +1,7 @@
 {
-    "roblox_version": "version-2366ba214ec740ca",
+    "roblox_version": "version-02c37bc51a384b8f",
     "FakeDataModel": {
-        "Pointer": "0x8ee1728",
+        "Pointer": "0x8b54980",
         "RealDataModel": "0x1f8"
     },
     "Instance": {
@@ -10,22 +10,22 @@
         "Name": "0x8"
     },
     "TaskScheduler": {
-        "Pointer": "0x8c8d108"
+        "Pointer": "0x8aff2a0"
     },
     "VisualEngine": {
         "Dimensions": "0xb10",
         "FakeDataModel": "0xaf0",
-        "Pointer": "0x851bf08",
+        "Pointer": "0x858d208",
         "RenderView": "0xc30",
         "ViewMatrix": "0x1b0",
         "LightingOffset": "0xc48"
     },
     "CameraFFlags": {
-        "UserCameraToggle": "0x7d827c0",
-        "SimplifyCameraTryZoomExtents": "0x8575f18",
-        "UserFixZoomInZoomOutDiscrepancy": "0x7d82888",
-        "UserCameraPositionCheckWarning": "0x7d82928",
-        "UserPoppercamCapRaycasts": "0x7d82900",
-        "UserPoppercamLooseOpacityThreshold": "0x8575a58"
+        "UserCameraToggle": "0x7dc6938",
+        "SimplifyCameraTryZoomExtents": "0x85e8cb8",
+        "UserFixZoomInZoomOutDiscrepancy": "0x7dc6a00",
+        "UserCameraPositionCheckWarning": "0x7dc6aa0",
+        "UserPoppercamCapRaycasts": "0x7dc6a78",
+        "UserPoppercamLooseOpacityThreshold": "0x85e89a8"
     }  
 }
