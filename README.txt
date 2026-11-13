@@ -8,7 +8,7 @@ STATUS
 ------
 
 [+] Marked undetected by Roblox
-[+] Marked undetected by Local Recorder Policy
+[+] Marked detected by Local Recorder Policy
 
 
 KEYBINDS
@@ -29,16 +29,6 @@ Press:
 CTRL + ⊞ Windows + O
 
 This will open the On-Screen Keyboard.
-
-
-NOTICE
-------
-
-The external may crash or freeze when reading invalid
-addresses.
-
-There are also other bugs, but I will do my best to
-fix them in upcoming updates.
 
 
 IMPORTANT
